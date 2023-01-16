@@ -7,7 +7,7 @@ public class stockaccount {
         private static Scanner sc = new Scanner(System.in);
 
         public static void main(String[] args) {
-            stockPortfolio stockPortfolio1 = new stockPortfolio();
+            stockportfolio stockPortfolio1 = new stockportfolio();
             boolean flag = true;
 
             do {
